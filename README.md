@@ -1,2 +1,4 @@
-# IA-P04
-Proyecto libre en Prolog: Juego de Sudoku interactivo con resolución usando lógica en Prolog
+# Juego de Sudoku
+
+Juego de resolucion interactiva de Sudoku programado en Python haciendo uso de lógica para resolver el puzzle de Sudoku inicial.
+Se usa la libreria Pyswip para la conexion con Prolog.
